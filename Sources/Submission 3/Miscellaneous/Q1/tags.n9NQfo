@@ -1,0 +1,2 @@
+josephus	q1.c	/^int josephus(int n, int k){$/;"	f
+main	q1.c	/^int main(){$/;"	f

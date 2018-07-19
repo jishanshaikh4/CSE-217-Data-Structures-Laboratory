@@ -1,0 +1,3 @@
+insertion_sort	insertionsort.c	/^void insertion_sort(int arr[], int n);$/;"	p	file:
+main	insertionsort.c	/^int main(){$/;"	f
+insertion_sort	insertionsort.c	/^void insertion_sort(int arr[], int n){$/;"	f
