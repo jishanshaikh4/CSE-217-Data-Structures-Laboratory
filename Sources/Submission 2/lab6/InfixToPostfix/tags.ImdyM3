@@ -1,0 +1,13 @@
+Stack	InfixToPostfix.cpp	/^struct Stack{$/;"	s	file:
+top	InfixToPostfix.cpp	/^	int top;$/;"	m	struct:Stack	file:
+capacity	InfixToPostfix.cpp	/^	unsigned capacity;$/;"	m	struct:Stack	file:
+array	InfixToPostfix.cpp	/^	int* array;$/;"	m	struct:Stack	file:
+createStack	InfixToPostfix.cpp	/^struct Stack* createStack( unsigned capacity ){$/;"	f
+isEmpty	InfixToPostfix.cpp	/^int isEmpty(struct Stack* stack){$/;"	f
+peek	InfixToPostfix.cpp	/^char peek(struct Stack* stack){$/;"	f
+pop	InfixToPostfix.cpp	/^char pop(struct Stack* stack){$/;"	f
+push	InfixToPostfix.cpp	/^void push(struct Stack* stack, char op){$/;"	f
+isOperand	InfixToPostfix.cpp	/^int isOperand(char ch){$/;"	f
+Prec	InfixToPostfix.cpp	/^int Prec(char ch){$/;"	f
+infixToPostfix	InfixToPostfix.cpp	/^int infixToPostfix(char* exp){$/;"	f
+main	InfixToPostfix.cpp	/^int main(){$/;"	f

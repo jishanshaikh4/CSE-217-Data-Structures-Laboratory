@@ -1,0 +1,21 @@
+node	growableStackUsingArrays.cpp	/^struct node$/;"	s	file:
+data	growableStackUsingArrays.cpp	/^    int data;$/;"	m	struct:node	file:
+link	growableStackUsingArrays.cpp	/^    struct node *link;$/;"	m	struct:node	typeref:struct:node::node	file:
+top	growableStackUsingArrays.cpp	/^}*top = NULL;$/;"	v	typeref:struct:node
+MAX	growableStackUsingArrays.cpp	10;"	d	file:
+push	growableStackUsingArrays.cpp	/^void push();$/;"	p	file:
+pop	growableStackUsingArrays.cpp	/^void pop();$/;"	p	file:
+empty	growableStackUsingArrays.cpp	/^void empty();$/;"	p	file:
+stack_full	growableStackUsingArrays.cpp	/^void stack_full();$/;"	p	file:
+stack_count	growableStackUsingArrays.cpp	/^void stack_count();$/;"	p	file:
+destroy	growableStackUsingArrays.cpp	/^void destroy();$/;"	p	file:
+print_top	growableStackUsingArrays.cpp	/^void print_top();$/;"	p	file:
+main	growableStackUsingArrays.cpp	/^int main(){$/;"	f
+push	growableStackUsingArrays.cpp	/^void push(){$/;"	f
+pop	growableStackUsingArrays.cpp	/^void pop(){$/;"	f
+empty	growableStackUsingArrays.cpp	/^void empty()$/;"	f
+stack_full	growableStackUsingArrays.cpp	/^void stack_full()$/;"	f
+stack_count	growableStackUsingArrays.cpp	/^void stack_count()$/;"	f
+st_count	growableStackUsingArrays.cpp	/^int st_count()$/;"	f
+destroy	growableStackUsingArrays.cpp	/^void destroy()$/;"	f
+print_top	growableStackUsingArrays.cpp	/^void print_top()$/;"	f

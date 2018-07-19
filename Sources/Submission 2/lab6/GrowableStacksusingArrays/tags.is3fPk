@@ -1,0 +1,13 @@
+stack	growableStackUsingArrays.cpp	/^int stack[100],choice,n,top,x,i;$/;"	v
+choice	growableStackUsingArrays.cpp	/^int stack[100],choice,n,top,x,i;$/;"	v
+n	growableStackUsingArrays.cpp	/^int stack[100],choice,n,top,x,i;$/;"	v
+top	growableStackUsingArrays.cpp	/^int stack[100],choice,n,top,x,i;$/;"	v
+x	growableStackUsingArrays.cpp	/^int stack[100],choice,n,top,x,i;$/;"	v
+i	growableStackUsingArrays.cpp	/^int stack[100],choice,n,top,x,i;$/;"	v
+push	growableStackUsingArrays.cpp	/^void push();$/;"	p	file:
+pop	growableStackUsingArrays.cpp	/^void pop();$/;"	p	file:
+display	growableStackUsingArrays.cpp	/^void display();$/;"	p	file:
+main	growableStackUsingArrays.cpp	/^int main(){$/;"	f
+push	growableStackUsingArrays.cpp	/^void push()$/;"	f
+pop	growableStackUsingArrays.cpp	/^void pop(){$/;"	f
+display	growableStackUsingArrays.cpp	/^void display(){$/;"	f
