@@ -1,6 +1,10 @@
-#include<stdio.h>
-#include<stdlib.h>
+// stack.c tested on gcc linux.
+
+#include <stdio.h>
+#include <stdlib.h>
+
 #define max_size 500
+
 int stack[max_size],top=-1;
 
 void push();
@@ -10,8 +14,7 @@ void display();
 
 int main(){
         int choice;
-        do{
-                
+        do{                
                 printf("\n\n**********MAIN MENU**********\n");
                 printf("1.Push\n");
                 printf("2.Pop\n");
@@ -89,3 +92,4 @@ void display(){
 	        }
         }
 }
+// End of stack.c
