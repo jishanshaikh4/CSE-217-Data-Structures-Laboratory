@@ -3,7 +3,7 @@
 
 ## How to run a C/C++ program using make in terminal (Linux)?
 
-Extract the master branch in home directory. Open terminal and type in the code there.
+Extract the master branch in home directory. Open terminal and type in the code there. Let's say merge sort which is named as mergesort in directory Sources/Submission%203/Sorting/Merge%20sort/.
 
 ```cd ./Sources/Submission%203/Sorting/Merge%20sort/```
 
