@@ -1,4 +1,4 @@
-# CSE-217-Data-Structures-Laboratory
+# :ledger: CSE-217-Data-Structures-Laboratory
 > Data Structures Laboratory programs in C prgramming language of CSE-217 (Winter 2017). This repository contains programs of various introductory data structures implemented in C/C++ programming language tested on gcc (linux). It also contains screenshots of operational windows in Ubuntu 17.04 (For usage). 
 
 ## How to run a C/C++ program using make in terminal (Linux)?
